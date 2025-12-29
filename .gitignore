@@ -1,0 +1,11 @@
+# Fichiers de cache Python
+__pycache__/
+*.pyc
+
+# Fichiers de configuration sensibles
+.env
+config.txt
+
+# Fichiers IDE
+.idea/
+.vscode/
