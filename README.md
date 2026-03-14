@@ -72,4 +72,3 @@ python bot_manager.py
 Si tout est configuré correctement, vous devriez voir un message dans votre console indiquant que le bot est connecté.
 
 ---
-*Projet préparé avec l'aide de l'assistant Gemini.*
